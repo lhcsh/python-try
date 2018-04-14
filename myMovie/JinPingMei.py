@@ -46,7 +46,7 @@ def main():
         return
     parseFirstPage(html)
 
-#just have a fun a pig
+#just have a fun and a file
 
 if __name__=='__main__':
     main()
